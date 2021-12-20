@@ -1,0 +1,29 @@
+H:\Практика 3 недели\День 4\WinBD\WinBD\bin\Debug\WinBD.exe.config
+H:\Практика 3 недели\День 4\WinBD\WinBD\bin\Debug\WinBD.exe
+H:\Практика 3 недели\День 4\WinBD\WinBD\bin\Debug\WinBD.pdb
+H:\Практика 3 недели\День 4\WinBD\WinBD\obj\Debug\WinBD.csprojResolveAssemblyReference.cache
+H:\Практика 3 недели\День 4\WinBD\WinBD\obj\Debug\WinBD.Form1.resources
+H:\Практика 3 недели\День 4\WinBD\WinBD\obj\Debug\WinBD.Properties.Resources.resources
+H:\Практика 3 недели\День 4\WinBD\WinBD\obj\Debug\WinBD.csproj.GenerateResource.Cache
+H:\Практика 3 недели\День 4\WinBD\WinBD\obj\Debug\WinBD.exe
+H:\Практика 3 недели\День 4\WinBD\WinBD\obj\Debug\WinBD.pdb
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение1\WinBD\WinBD\bin\Debug\WinBD.exe.config
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение1\WinBD\WinBD\obj\Debug\WinBD.exe
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение1\WinBD\WinBD\obj\Debug\WinBD.pdb
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение1\WinBD\WinBD\bin\Debug\WinBD.exe
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение1\WinBD\WinBD\bin\Debug\WinBD.pdb
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение1\WinBD\WinBD\obj\Debug\WinBD.csprojResolveAssemblyReference.cache
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение1\WinBD\WinBD\obj\Debug\WinBD.Form1.resources
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение1\WinBD\WinBD\obj\Debug\WinBD.Properties.Resources.resources
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение1\WinBD\WinBD\obj\Debug\WinBD.csproj.GenerateResource.Cache
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение2\WinBD\WinBD\bin\Debug\WinBD.exe.config
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение2\WinBD\WinBD\obj\Debug\WinBD.exe
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение2\WinBD\WinBD\obj\Debug\WinBD.pdb
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение2\WinBD\WinBD\bin\Debug\RBProduct.mdb
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение2\WinBD\WinBD\bin\Debug\WinBD.exe
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение2\WinBD\WinBD\bin\Debug\WinBD.pdb
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение2\WinBD\WinBD\obj\Debug\WinBD.csprojResolveAssemblyReference.cache
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение2\WinBD\WinBD\obj\Debug\WinBD.Form1.resources
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение2\WinBD\WinBD\obj\Debug\WinBD.Form2.resources
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение2\WinBD\WinBD\obj\Debug\WinBD.Properties.Resources.resources
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение2\WinBD\WinBD\obj\Debug\WinBD.csproj.GenerateResource.Cache
