@@ -1,0 +1,18 @@
+G:\Практика ПМ 0.1\Задание 4\WinDataBinding\WinDataBinding\bin\Debug\WinDataBinding.exe.config
+G:\Практика ПМ 0.1\Задание 4\WinDataBinding\WinDataBinding\bin\Debug\WinDataBinding.exe
+G:\Практика ПМ 0.1\Задание 4\WinDataBinding\WinDataBinding\bin\Debug\WinDataBinding.pdb
+G:\Практика ПМ 0.1\Задание 4\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.csprojResolveAssemblyReference.cache
+G:\Практика ПМ 0.1\Задание 4\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.Form1.resources
+G:\Практика ПМ 0.1\Задание 4\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.Properties.Resources.resources
+G:\Практика ПМ 0.1\Задание 4\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.csproj.GenerateResource.Cache
+G:\Практика ПМ 0.1\Задание 4\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.exe
+G:\Практика ПМ 0.1\Задание 4\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.pdb
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение4\WinDataBinding\WinDataBinding\bin\Debug\WinDataBinding.exe.config
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение4\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.exe
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение4\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.pdb
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение4\WinDataBinding\WinDataBinding\bin\Debug\WinDataBinding.exe
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение4\WinDataBinding\WinDataBinding\bin\Debug\WinDataBinding.pdb
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение4\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.csprojResolveAssemblyReference.cache
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение4\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.Form1.resources
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение4\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.Properties.Resources.resources
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание4\Упражнение4\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.csproj.GenerateResource.Cache
