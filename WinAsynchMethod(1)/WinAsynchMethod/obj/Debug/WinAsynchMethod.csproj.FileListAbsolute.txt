@@ -1,0 +1,32 @@
+C:\Users\Студент\Desktop\Реп мат2\WinAsynchMethod\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe.config
+C:\Users\Студент\Desktop\Реп мат2\WinAsynchMethod\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe
+C:\Users\Студент\Desktop\Реп мат2\WinAsynchMethod\WinAsynchMethod\bin\Debug\WinAsynchMethod.pdb
+C:\Users\Студент\Desktop\Реп мат2\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\Реп мат2\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.Form1.resources
+C:\Users\Студент\Desktop\Реп мат2\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.Properties.Resources.resources
+C:\Users\Студент\Desktop\Реп мат2\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\Реп мат2\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Реп мат2\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.exe
+C:\Users\Студент\Desktop\Реп мат2\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.pdb
+C:\Users\UniHow\Desktop\Prd-zadanie3_1\WinAsynchMethod\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe.config
+C:\Users\UniHow\Desktop\Prd-zadanie3_1\WinAsynchMethod\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe
+C:\Users\UniHow\Desktop\Prd-zadanie3_1\WinAsynchMethod\WinAsynchMethod\bin\Debug\WinAsynchMethod.pdb
+C:\Users\UniHow\Desktop\Prd-zadanie3_1\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.AssemblyReference.cache
+C:\Users\UniHow\Desktop\Prd-zadanie3_1\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\UniHow\Desktop\Prd-zadanie3_1\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.Form1.resources
+C:\Users\UniHow\Desktop\Prd-zadanie3_1\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.Properties.Resources.resources
+C:\Users\UniHow\Desktop\Prd-zadanie3_1\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.GenerateResource.cache
+C:\Users\UniHow\Desktop\Prd-zadanie3_1\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.CoreCompileInputs.cache
+C:\Users\UniHow\Desktop\Prd-zadanie3_1\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.exe
+C:\Users\UniHow\Desktop\Prd-zadanie3_1\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.pdb
+C:\Users\UniHow\Desktop\Practic\WinAsynchMethod(1)\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe.config
+C:\Users\UniHow\Desktop\Practic\WinAsynchMethod(1)\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe
+C:\Users\UniHow\Desktop\Practic\WinAsynchMethod(1)\WinAsynchMethod\bin\Debug\WinAsynchMethod.pdb
+C:\Users\UniHow\Desktop\Practic\WinAsynchMethod(1)\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.AssemblyReference.cache
+C:\Users\UniHow\Desktop\Practic\WinAsynchMethod(1)\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\UniHow\Desktop\Practic\WinAsynchMethod(1)\WinAsynchMethod\obj\Debug\WinAsynchMethod.Form1.resources
+C:\Users\UniHow\Desktop\Practic\WinAsynchMethod(1)\WinAsynchMethod\obj\Debug\WinAsynchMethod.Properties.Resources.resources
+C:\Users\UniHow\Desktop\Practic\WinAsynchMethod(1)\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.GenerateResource.cache
+C:\Users\UniHow\Desktop\Practic\WinAsynchMethod(1)\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.CoreCompileInputs.cache
+C:\Users\UniHow\Desktop\Practic\WinAsynchMethod(1)\WinAsynchMethod\obj\Debug\WinAsynchMethod.exe
+C:\Users\UniHow\Desktop\Practic\WinAsynchMethod(1)\WinAsynchMethod\obj\Debug\WinAsynchMethod.pdb
